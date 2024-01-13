@@ -1,0 +1,35 @@
+<paragraphe titre="Fonctions d'agrégats">
+	<sparagraphes>
+		<sparagraphe titre="TITRE">
+			<illustration>ILLUSTRATION</illustration>
+			<contenu>CONTENU1</contenu>
+			<exemples>
+				<exemple>
+					<description>
+					EXEMPLEDESCRIPTION
+					</description>
+					EXEMPLECONTENU
+					<contenu>
+					</contenu>
+				</exemple>
+			</exemples>
+			<sites>
+				<site></site>
+				<site></site>
+			</sites>
+			<exercices>
+				<exercice>
+					<enonce>ENONCE</enonce>
+					<corrige>CORRIGE</corrige>
+					<download>DOWNLOAD</download>
+				</exercice>
+			</exercices>
+		</sparagraphe>
+	</sparagraphes>
+	<ia>
+		<questions>
+			question 1,
+			question 2
+		</questions>
+	</ia>
+</paragraphe>

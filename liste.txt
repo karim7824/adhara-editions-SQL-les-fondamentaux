@@ -1,0 +1,41 @@
+Généralités
+-Le modèle client serveur
+-Structure générale d'une base
+-Base
+-Schéma
+-Tables
+-Principaux SGBD
+Présentation du langage SQL
+-Langage SQL
+-Types d'instructions SQL  DDL
+-Éléments de la syntaxe SQL
+-Traduction de l'algèbre relationnelle
+Manipulation des données
+-Insertions (INSERT)
+-Modifications (UPDATE)
+-Suppression (DELETE TRUNCATE)
+-Clause RETURNING OUTPUT
+Interrogation des données
+-Structure générale de l'ordre
+-Alias de colonnes et alias de
+-Clause WHERE (LIKE  SIMILAR TO
+-Fonctions d'agrégats
+-Clause GROUP BY
+-Clause HAVING
+-Clause ORDER BY
+-Clause LIMIT
+-Clause OFFSET FETCH
+-Sous-requêtes (Sous-requêtes simples
+-Prédicat EXISTS
+-Opérateurs de jeux (UNION  INTERSECT
+-Tables temporaires
+-Vues
+-Clause WITH   les CTE
+-Jointures et requêtes multi-tables
+Fonctions de fenêtrage
+-Présentation et intérêts
+-Principales fonctions de fenêtrage
+-Clause OVER()
+-Prédicat ORDER BY
+-Prédicat PARTITION BY
+-Prédicat ROW BETWEEN
